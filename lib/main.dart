@@ -16,6 +16,7 @@ void main() {
         // 4. the body is the main content area in the middle
         body: Center(
           child: Image.asset('assets/teno.png'),
+
         ),
       ),
     ),
